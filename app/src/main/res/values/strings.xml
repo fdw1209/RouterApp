@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">路由器APP</string>
+    <string name="title_home">Telnet</string>
+    <string name="title_dashboard">窗口</string>
+    <string name="title_notifications">关于</string>
+    <string name="telnet_switch">Telnet开启</string>
+</resources>
